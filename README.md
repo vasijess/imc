@@ -4,7 +4,7 @@
 Projeto de teste prático de como fazer uma pequena demonstração de testes usando como base IMC.
 </p>
 
-[🔗 Clique aqui para acessar](https://vasijess.github.io/options/) 
+[🔗 Clique aqui para acessar](https://vasijess.github.io/imc/) 
 
 ## 🛠 Tecnologias 
 - JavaScript
